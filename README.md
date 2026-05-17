@@ -1,6 +1,5 @@
 # Bank-Managment-Syestem
-BANK MANAGMENT SYESTEM
-🏦Bank Management System
+🏦BANK MANAGMENT SYESTEM
 
 A beginner Python project that simulates a simple banking system.
 It uses basic programming concepts like variables, loops, conditions, lists, dictionaries, type casting, and user input.
